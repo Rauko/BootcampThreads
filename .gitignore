@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Build output
+/out/
+/build/
+/target/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local Git attributes
+.gitattributes
